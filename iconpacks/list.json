@@ -188,22 +188,22 @@
       "config": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/IconsaxBulk/config.json",
       "load": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/IconsaxBulk/"
     }
-        {
-      "id": "silksong-test",
-      "name": "Silksong Test",
-      "description": "Five-icon Silksong iconpack for Raincord Themes++.",
-      "credits": {
-        "authors": [
-          {
-            "name": "Rayhan"
-          }
-        ],
-        "sources": []
-      },
-      "suffix": "",
-      "config": "https://raw.githubusercontent.com/rayhan0706/Iconpack-/main/config.json",
-      "load": "https://raw.githubusercontent.com/rayhan0706/Iconpack-/main/"
-    },
+       {
+  "id": "silksong-test",
+  "name": "Silksong Test",
+  "description": "Five-icon Silksong iconpack for Raincord Themes++.",
+  "credits": {
+    "authors": [
+      {
+        "name": "Rayhan"
+      }
+    ],
+    "sources": []
+  },
+  "suffix": "",
+  "config": "https://raw.githubusercontent.com/rayhan0706/pack-test/main/config.json",
+  "load": "https://raw.githubusercontent.com/rayhan0706/pack-test/main/"
+},
   ],
   "_notes": [
     "please follow the schema in .github/iconpacks_list_schema.json",
